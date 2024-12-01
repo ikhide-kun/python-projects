@@ -3,7 +3,6 @@ import pandas as pd
 
 st.title('Student database App')
 
-readcsv = st.scorecsv.py
 menu = st.sidebar.selectbox('Menu',['Input scores', 'Scores Database'])
 
 if menu == 'Input scores':
