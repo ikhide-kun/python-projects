@@ -1,0 +1,6 @@
+name = input ("Please enter your name ")
+pencil_pack_cost = input ("Please enter your amount of pencil_pack_cost:")
+sketchbook_cost = input("Please enter your amount of stetchbook_cost:")
+marker_pack_cost = input ("Please enter your amount of marker_pack_cost:")
+coupon = input ("please enter your amount of coupons")
+total_spent = ("please enter your amount of things total_spent")
