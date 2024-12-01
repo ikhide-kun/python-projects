@@ -1,5 +1,5 @@
 import streamlit as st
-import pandas as pd
+
 
 st.title('Student database App')
 
@@ -54,4 +54,4 @@ if menu == 'Input scores':
 
         if st.button ("save student scores"):
             st.write ("name","your Total score is","Total","Average average is Good job!!!")
-            scoresdict = ('Name','Math','En')
+           
